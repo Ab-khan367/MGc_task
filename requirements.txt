@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+streamlit
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+joblib
+python-dotenv
