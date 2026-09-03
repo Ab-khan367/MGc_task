@@ -13,7 +13,7 @@ venv\Scripts\activate        # Windows
 # 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Set your Gemini API key
+# 3. Set your Gemini API key from https://aistudio.google.com/api-keys
 #    Edit .env and replace the placeholder:
 echo GOOGLE_API_KEY=your_key_here > .env
 
